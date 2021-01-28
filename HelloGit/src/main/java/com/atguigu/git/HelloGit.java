@@ -11,6 +11,6 @@ public class HelloGit {
         System.out.println("dev1");
         System.out.println("dev2");
         System.out.println("dev3");
-        System.out.println("maseter1");
+        System.out.println("master22222");
     }
 }
