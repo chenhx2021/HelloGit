@@ -9,5 +9,7 @@ public class HelloGit {
         System.out.println("test4");
         System.out.println("分支添加");
         System.out.println("dev1");
+        System.out.println("dev2");
+        System.out.println("dev3");
     }
 }
